@@ -44,15 +44,16 @@
 
 Describe your project
 
-Ejercicio Pacman Facotry Semana 7 MITxPro con Emeritus
+Pacman Factory Exercise, week 7. This program can create various copies of the pacman and make them move around the screen at random.
+demo available here : https://vicenite.github.io/Pacman-Factory/
 
 ## :sparkles: Features ##
 
 
 Has a start game button
-:heavy_check_mark: Feature 1;\ Adiciona un Pacman cada vez que el boton de "Add PacMan" se precione
-:heavy_check_mark: Feature 2;\ Se unicia el juego al precionar el boton  "Start Game"
-:heavy_check_mark: Feature 3;\ Se puede hacelerar la velocidad de los Pacman cada vez que se precione el boton "Start Game"
+:heavy_check_mark: Adds a Pacman every time the "Add Pacman" button is pressed
+:heavy_check_mark: Game begins when pressing start game button  "Start Game"
+:heavy_check_mark: you may increase the acceleration of moving pacmans by pressing start game again "Start Game"
 
 ## :rocket: Technologies ##
 
