@@ -55,6 +55,14 @@ Has a start game button
 :heavy_check_mark: Game begins when pressing start game button  "Start Game"
 :heavy_check_mark: you may increase the acceleration of moving pacmans by pressing start game again "Start Game"
 
+## :sparkles: Roadmap of future improvements ##
+
+
+
+:heavy_check_mark: Add a pause button
+:heavy_check_mark: Add reset button 
+:heavy_check_mark: Add different color pacman to the program
+
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
@@ -84,7 +92,7 @@ $ yarn
 # Run the project
 $ yarn start
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://127.0.0.1:5501/>
 ```
 
 ## :memo: License ##
