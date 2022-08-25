@@ -87,10 +87,10 @@ $ git clone https://github.com/ViceNite/pacman-factory
 $ cd pacman-factory
 
 # Install dependencies
-$ yarn
+$ No dependencies required 
 
 # Run the project
-$ yarn start
+$ Open the project with the live server extension
 
 # The server will initialize in the <http://127.0.0.1:5501/>
 ```
